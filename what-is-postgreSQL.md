@@ -15,3 +15,6 @@ Also, PostgreSQL can be extended by the user in many ways, for example by adding
 - aggregate functions
 - index methods
 - procedural languages
+
+
+https://www.postgresql.org/docs/12/intro-whatis.html
